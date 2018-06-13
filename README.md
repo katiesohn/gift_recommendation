@@ -71,6 +71,6 @@ The data associating gift searches (surveys) and sales is not great, but we thin
   - `recipient_id`- Recipient id (foreign key)
   - `min_budget` - The minimum price the gifter wants to spend
   - `max_budget` - The maximum price the gifter wants to spend
-  - [surveys\_\_gifts.csv](//github.com/outgift/gift_recommendation/blob/master/data/surveys__gifts.csv) Associations between Surveys and Gifts (gift search results) (many-to-many relationship)
+- [surveys\_\_gifts.csv](//github.com/outgift/gift_recommendation/blob/master/data/surveys__gifts.csv) Associations between Surveys and Gifts (gift search results) (many-to-many relationship)
   - `survey_id` - Survey id (foreign key)
   - `gift_id` - Gift id (foreign key)
