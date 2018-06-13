@@ -10,7 +10,7 @@ Outgift is challenging you to create an algorithm which can recommend products t
 - List of Surveys (gift searches)
   - includes gift recommendations
   - includes datetime the Survey was input
-- List of Sales (gift purchases)
+- [List of Sales](//github.com/outgift/gift_recommendation/blob/master/sales.csv) (gift purchases)
   - Can be associated with Surveys using gift recommendations and datetime to determine what which gift recommendations were successful
 - List of Categories
 - List of Gifts
