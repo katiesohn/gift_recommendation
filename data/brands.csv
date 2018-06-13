@@ -1,0 +1,560 @@
+id,name
+1,Owlet
+2,Athos
+3,The Ultimate Edge
+4,Nomad
+5,Teavana
+7,Royce
+8,Bose
+9,Fujifilm
+10,Lego
+11,Canon
+12,Warby Parker
+14,Digital Dream Labs
+15,Kiwi Crate
+16,Wonder Workshop
+17,Native Union
+18,eero
+19,Moleskine
+20,Michael Kors
+21,Primus
+22,Gardeners
+24,VegTrug
+25,New York Times
+26,Petzi
+27,Restoration Hardware
+28,Level Terrain
+29,Tumi
+30,Columbia
+32,GrowlerWerks
+33,Chikuno
+34,Waterford
+36,Uncle Goose
+37,John Varvatos
+39,Lodge
+40,Everlane
+41,Yeti
+42,Arc'teryx
+43,Nikon
+44,BumbleRide
+45,Mauviel
+46,Salvatore Ferragamo
+48,Public Bikes
+49,Peterboro
+50,Knog
+51,Kryptonite
+52,Wilson
+53,Sugarfina
+54,Mariage Frères
+55,S'well
+56,Frends
+57,White + Warren
+58,Alexander McQueen
+59,Nashelle
+60,Anthropologie
+61,Ringly
+62,Titleist
+63,Tilit
+64,Shun
+65,Zwilling
+66,Blue Bottle Coffee
+67,Chemex
+68,Apple
+69,Slip
+70,Gaiam
+71,Bruer
+72,Marta Pia
+73,Food52
+74,Shrub & Co
+75,Studiopatró
+76,Staub
+77,Yield
+78,PieBox
+79,Noble Handcrafted
+80,GrowlTap
+81,The Coffee Registry
+82,Dona Chai
+83,SPARQ Home
+84,Potting Shed Creations
+85,Able Brewing Co
+86,Oscar De La Renta
+87,Kate Spade
+88,Ralph Lauren
+89,Prada
+90,Amazon
+91,Soma
+92,Tile
+93,Goal Zero
+94,Klean Kanteen
+95,Monocle
+96,BioLite
+97,GoPro
+98,Darn Tough
+99,Sheffield
+100,Fitbit
+101,Rifle Paper Co
+102,Wusthof
+103,SoundPeats
+104,Zepp
+105,Wacom
+106,Harney & Sons
+107,Winsor & Newton
+108,Prismacolor
+109,Youphoria
+110,Hario
+111,Zippo
+112,Menu
+113,Huawei
+114,Trion
+115,Vector
+116,Tory Burch
+117,Burberry
+118,KitchenAid
+119,Beats by Dre
+120,Raden
+121,Owen & Fred
+122,Vineyard Vines
+123,Google
+124,Club Glove
+125,Baby Trend
+126,Epson
+128,Uuni
+129,Wedgwood
+130,Ippolita
+131,Thermos
+38,Frank And Oak
+132,JBL
+133,Samsung
+134,Klipsch
+135,Logitech
+136,Bang & Olufson
+137,Leef
+138,Bobby Jones
+139,Lululemon
+140,Saint Laurent
+141,Owl's Brew
+142,Osprey
+143,Nike
+144,Starbucks
+145,Arccos
+146,Mizuno
+147,Cloud B
+148,Melissa & Doug
+149,524 Candle Lab
+150,KCKO
+151,Laguiole
+152,Wabash Valley Farms
+153,Chanel
+154,Kohler
+155,Royce Leather
+156,Yonanas
+157,Canary
+158,Rabbit
+159,Silver Oak
+160,Maya Brenner
+161,Cluse
+162,Sevenhugs
+163,NFL Shop
+164,MiniPresso
+165,Umbra
+168,Xummit
+169,Quad Lock
+170,My Audio Pet
+171,Caeden
+172,Primo Toys
+173,Kano
+174,MAC Knives
+175,Crenova
+176,Void
+167,Roli
+177,Nuzzle
+179,AHA Life
+180,David Yurman
+181,Holy Stone
+182,Wonderwoof
+184,Marc Jacobs
+185,Ted Baker
+186,Swagtron
+189,Spy Gear
+190,Super Stadium
+191,Gund
+192,Fisher-Price
+193,Radio Flyer
+194,Trivial Pursuit
+195,Revell
+196,Da Vinci
+197,Stanley
+198,Scrabble
+201,Infant Optics 
+202,UPPAbaby
+203,Stokke
+204,Skip Hop
+205,All-You-Can-Eat Press
+206,Sarah Chloe
+207,Rebecca Minkoff
+210,Artifact Uprising
+211,Bellzi
+212,Benchic
+213,Birchbox
+214,Anova
+215,JCrew
+216,Brooklyn Candle
+217,Lo & Sons
+218,BabyLit
+219,Anki
+220,Sur La Table
+221,Seedling
+224,Elizabeth and James
+225,Luci
+226,Jo Malone
+227,Yogi Fun
+228,Kinsa
+229,Memobottle
+230,Projecteo
+232,Swiss + Tech
+233,Wine.com
+234,MVMT
+235,Osmo
+236,Paper Culture
+237,Philips
+238,Rayban
+239,Ricoh
+240,Road ID
+241,Rocketbook
+242,Sazerac Rye
+243,Maps International
+244,Sphero
+245,Out of Print
+246,Toymail
+247,Lewo
+248,Victoria's Secret
+249,The Everyday Mother
+250,Powerbeats
+251,Mast Brothers
+252,Glerups
+253,Mack Weldon
+254,Bonobos
+255,Adidas
+256,Urban Ears
+257,J-Me
+258,Coordinates Collection
+259,Urban Outfitters
+260,iWalk
+261,Sonix
+262,La Mer
+263,Polaroid
+264,Flight 001
+265,Instax
+199,Great2BHome
+266,Vinsic
+268,Crayon Rocks
+267,Tealyra 
+269,Fluf
+271,aden + anais
+270,Eachine
+272,Baby Einstein
+273,Winkle
+274,District Mot Kids
+275,Bellabeat
+276,Doddle & Co. 
+277,Petcube
+278,Unproper
+279,LaMetric
+280,Coravin
+281,Click & Grow
+282,BakerStone
+283,Devialet
+285,Back to the Roots
+287,ChefSteps
+288,Stadler Form
+290,Spire
+291,Sideclick Remotes
+292,Greater Goods
+293,Wemo
+294,Hatch Baby
+295,EasySMX
+297,Baccarat
+298,Breville
+299,Williams Sonoma 
+300,Vulli
+301,Sagaplay
+302,Terrain
+303,Brio
+304,Etsy
+305,KidKraft
+306,The Cottage Greenhouse
+307,Juniper Books
+308,Sweet Saba
+309,Cuisinart
+310,Anker
+311,Ayla
+312,Chronicle Books
+313,Pinch Provisions
+314,Vapur
+315,Fred & Friends
+316,OTOTO Design
+317,Kikkerland
+319,iAnko
+320,CUJO
+321,ORICSSON
+322,Project Nursery
+323,Boriyuan
+324,Louis Vuitton
+325,Minted
+326,HP
+327,The Bouqs Co
+328,Barebones Living
+329,Tiffany & Co
+330,Paw Prints
+331,DalosDream
+332,Unique Gadgets & Toys
+333,New Matter
+334,Pottery Barn
+335,Matador
+336,Jasco
+337,Prynt
+338,RIF6
+339,Curious Columbus
+340,Kids Preferred
+341,Pi Lab
+342,Boon
+343,Gourmia
+344,Hape
+345,EverEarth
+346,HTC
+349,Scotty Cameron
+350,Especially Puglia
+351,Hase Ceramics
+352,Finesse the Store
+353,Marcato
+354,Caden
+356, 
+357,Lily B. & Co.
+358,Haws
+359,Moet
+360,Ariel Gordon
+361,Suntory
+362,Brooks
+364,Whistle
+365,Maileg
+366,Blabla
+367,Vtech
+368,Intbase
+369,Foreo
+370,BAGGU
+371,Harry's
+372,Censi
+373,NBA Store
+374,MLBShop.com
+377,Cards Against Humanity LLC
+378,Vinturi
+380,Fox Run
+381,Prodyne
+382,Catbird NYC
+383,The Land of Nod
+384,Kiehl's
+385,Mud Pie
+386,Step2
+387,Janod
+388,Little Kids
+389,DJI
+390,Cloud Island
+391,Yves Saint Laurent
+392,Mudpuppy
+393,Mega Bloks
+394,Svan
+395,Lakeshore
+396,WOW
+397,CP Toy
+398,TP-Link
+399,Drybar
+400,Glow Recipe
+401,Fresh
+402,First Aid Beauty
+403,Winc
+404,Canada Goose
+405,Peach & Lily
+406,Voluspa
+407,Too Cool for School
+408,Beauty Bioscience
+409,Madewell
+410,See Me!
+411,UGG
+412,Herbivore Botanicals
+413,Orvis
+414,AvoSeedo
+415,Uncommon Goods
+416,HanZa
+417,Pop Chart Lab
+418,Vitruvi
+419,Bodum
+420,Mattel
+421,iFetch
+422,Little Tikes
+423,Patagonia
+424,Helix DNA
+425,23andMe
+426,Nanit
+427,DrinkTanks
+428,Le Creuset
+429,Gucci
+430,Brooklinen
+431,Boll & Branch
+432,The Carry on Cocktail Kit
+433,This Works
+435,Cor
+436,Woodford Reserve
+437,Pearhead
+438,Tickle and Main
+439,Petnet
+440,Final Touch
+441,Crocodile Creek
+442,Technology Will Save Us
+443,I Heart Guts
+444,CoSmile
+445,Fjällräven
+446,Nanoblock
+447,Ullo
+448,Glocalme
+449,OMY
+450,Moulin Roty
+451,Elvie
+452,Hanna Anderson
+454,Vacu Vin
+455,Geyes
+456,Graf Lantz
+457,Ergobaby
+458,Infantino
+459,Shelter Co.
+460,Addition Studio
+461,Vinglacé
+462,Care/of
+463,Oeuf
+464,HATCH collection
+466,Vitamix
+467,Build & Imagine
+468,LifeBEAM
+469,Sony
+470,Exploding Kittens LLC
+471,Dunheger
+472,Makey Makey
+473,Sensible Object
+474,3Doodler
+475,Get Qurious
+476,Ember
+477,Petit Collage
+478,Across The Board
+479,Halo
+480,Page Thirty Three
+481,Build-A-Bear
+482,Nespresso
+483,Samsonite
+484,VicTsing
+485,Beaba
+486,Daniel Wellington
+487,Goplus
+488,Rosefield
+489,Framebridge 
+490,Woogin
+491,Cocokind
+492,Youth to the People
+493,Hero Cosmetics
+494,Kocostar
+495,The Refinery
+496,Hum Nutrition
+497,Vifa
+498,Corkcicle
+499,Korg
+500,Homesick
+501,Furla
+502,Bloomingdale's
+503,Micro Kickboard
+504,Jellycat
+505,Reed & Barton
+506,Tzumi
+507,Craftsman Golf
+508,Seamus Golf
+509,Bushnell
+510,Petkit
+511,Sunveza
+512,DOGOO
+514,Pet Product Innovations
+516,Segway
+517,Philips Sonicare
+515,Pebble
+518,Braun
+519,Dean & DeLuca
+520,Perpetual Shade
+521,Bird + Stone
+522,Nordstrom
+523,Juliska
+525,Everett
+526,Smart Pet Love
+527,Vogek
+528,Keurig
+529,Green & Black's
+530,Godinger
+531,Brilliant
+532,Brigade Kitchen
+533,Schylling
+453,Morihata
+513,Photive
+534,Crate & Barrel
+535,Mont Blanc
+536,Fredericks and Mae
+537,Rag & Bone
+538,Dr. Brown's
+539,Brooklyn Slate Co
+540,Tooletries
+541,GoldieBlox
+542,Hamamlique
+543,Macaron Cafe
+544,Huzi
+545,Andreas Ingeman
+546,Savino
+547,SugarBooger
+548,The School of Life
+549,Vosges Haut-Chocolat
+550,Window Garden
+551,Aerin
+552,Finch and Cotter
+553,Nintendo
+554,Companion Group
+555,Nordic Ware
+556,Teraforma
+557,Cheese Grotto
+558,Dovetail
+559,Eberjey
+560,Kinto
+561,Dexam Home
+562,Match
+563,Glossier
+564,Cuyana
+565,Hudson + Bleecker
+566,Mer-Sea & Co.
+568,Yuzu Soap
+569,Aquarian Soul
+570,Cunning Co.
+571,BARBARIAN by Barbra Ignatiev
+572,W&P Design
+573,Sir Madam
+574,Pedal Happy
+575,Celina Mancurti
+576,ANNA by RabLabs
+577,Black + Blum
+578,Peugeot
+579,Awair
+580,Behmor
+581,Coyuchi
+582,Wolf
+583,FlashForge
+584,iSmartAlarm
+585,Kodak
+586,Muse
+587,New Era
+589,PicoBrew
+590,Ratio
+591,Stutterheim
+592,Weber
+593,Oxo
+594,Wacaco

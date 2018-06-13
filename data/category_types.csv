@@ -1,0 +1,10 @@
+id,name,parent_id
+4,Event,
+11,Occasion,
+13,Relationship,
+3,Drink,
+15,Interests,
+16,Sports,15
+17,Hobbies,15
+18,Food & Beverage,15
+19,Other,15

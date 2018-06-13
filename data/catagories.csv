@@ -1,0 +1,382 @@
+id,value
+417,Parent
+58,I have no idea
+99,Valentine’s Day
+1,accounting
+2,advertising
+3,agriculture
+5,architecture
+4,art
+6,auto
+7,beauty & cosmetics 
+8,communications
+9,computer programming
+10,construction
+11,consulting
+12,consumer products
+13,education
+14,electronics
+15,energy
+16,entertainment & recreation
+17,fashion
+18,finance
+19,food & beverage
+20,graphic design
+21,healthcare
+22,hospitality
+23,information technology
+24,insurance
+181,coffee
+182,tea
+180,beer
+178,whiskey
+177,wine
+179,cocktails
+418,new job
+183,"Abilene-Sweetwater, TX"
+184,"Albany, GA"
+185,"Albany-Schenectady-Troy, NY"
+186,"Albuquerque-Santa Fe, NM"
+187,"Alexandria, LA"
+188,"Alpena, MI"
+189,"Amarillo, TX"
+190,"Anchorage, AK"
+191,"Atlanta, GA"
+192,"Augusta, GA"
+193,"Austin, TX"
+194,"Bakersfield, CA"
+195,"Baltimore, MD"
+196,"Bangor, ME"
+197,"Baton Rouge, LA"
+198,"Beaumont-Port Arthur, TX"
+199,"Bend, OR"
+200,"Billings, MT"
+201,"Biloxi-Gulfport, MS"
+202,"Binghamton, NY"
+203,"Birmingham, AL"
+204,"Bluefield-Beckley-Oak Hill, WV"
+205,"Boise, ID"
+206,"Boston, MA-Manchester, NH"
+207,"Bowling Green, KY"
+208,"Buffalo, NY"
+163,baking
+164,cooking
+135,games/puzzles
+136,gardening
+168,grilling
+169,hosting
+138,music
+140,photography
+141,reading
+144,traveling
+209,"Burlington, VT-Plattsburgh, NY"
+210,"Butte-Bozeman, MT"
+211,"Casper-Riverton, WY"
+212,"Cedar Rapids-Waterloo-Iowa City & Dubuque, IA"
+213,"Champaign & Springfield-Decatur,IL"
+214,"Charleston, SC"
+215,"Charleston-Huntington, WV"
+216,"Charlotte, NC"
+217,"Charlottesville, VA"
+218,"Chattanooga, TN"
+219,"Cheyenne, WY-Scottsbluff, NE"
+220,"Chicago, IL"
+221,"Chico-Redding, CA"
+222,"Cincinnati, OH"
+223,"Clarksburg-Weston, WV"
+224,"Cleveland-Akron (Canton), OH"
+225,"Colorado Springs-Pueblo, CO"
+226,"Columbia, SC"
+227,"Columbia-Jefferson City, MO"
+228,"Columbus, GA"
+229,"Columbus, OH"
+230,"Columbus-Tupelo-West Point, MS"
+231,"Corpus Christi, TX"
+232,"Dallas-Ft. Worth, TX"
+233,"Davenport,IA-Rock Island-Moline,IL"
+234,"Dayton, OH"
+235,"Denver, CO"
+236,"Des Moines-Ames, IA"
+237,"Detroit, MI"
+238,"Dothan, AL"
+239,"Duluth, MN-Superior, WI"
+240,"El Paso, TX"
+241,"Elmira, NY"
+242,"Erie, PA"
+243,"Eugene, OR"
+244,"Eureka, CA"
+245,"Evansville, IN"
+246,"Fairbanks, AK"
+247,"Fargo-Valley City, ND"
+248,"Flint-Saginaw-Bay City, MI"
+249,"Florence-Myrtle Beach, SC"
+250,"Ft. Myers-Naples, FL"
+251,"Ft. Smith-Fayetteville-Springdale-Rogers, AR"
+252,"Ft. Wayne, IN"
+253,"Fresno-Visalia, CA"
+254,"Gainesville, FL"
+255,"Glendive, MT"
+256,"Grand Junction-Montrose, CO"
+257,"Grand Rapids-Kalamazoo-Battle Creek, MI"
+258,"Great Falls, MT"
+259,"Green Bay-Appleton, WI"
+260,"Greensboro-High Point-Winston Salem, NC"
+261,"Greenville-New Bern-Washington, NC"
+262,"Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC"
+263,"Greenwood-Greenville, MS"
+264,"Harlingen-Weslaco-Brownsville-McAllen, TX"
+265,"Harrisburg-Lancaster-Lebanon-York, PA"
+266,"Harrisonburg, VA"
+267,"Hartford & New Haven, CT"
+268,"Hattiesburg-Laurel, MS"
+269,"Helena, MT"
+270,"Honolulu, HI"
+271,"Houston, TX"
+272,"Huntsville-Decatur (Florence), AL"
+273,"Idaho Falls-Pocatello, ID"
+274,"Indianapolis, IN"
+275,"Jackson, MS"
+276,"Jackson, TN"
+277,"Jacksonville, FL"
+278,"Johnstown-Altoona, PA"
+279,"Jonesboro, AR"
+280,"Joplin, MO-Pittsburg, KS"
+281,"Juneau, AK"
+282,"Kansas City, MO"
+283,"Knoxville, TN"
+284,"La Crosse-Eau Claire, WI"
+285,"Lafayette, IN"
+286,"Lafayette, LA"
+287,"Lake Charles, LA"
+288,"Lansing, MI"
+289,"Laredo, TX"
+290,"Las Vegas, NV"
+291,"Lexington, KY"
+292,"Lima, OH"
+293,"Lincoln & Hastings-Kearney, NE"
+294,"Little Rock-Pine Bluff, AR"
+295,"Los Angeles, CA"
+296,"Louisville, KY"
+297,"Lubbock, TX"
+298,"Macon, GA"
+299,"Madison, WI"
+300,"Mankato, MN"
+301,"Marquette, MI"
+302,"Medford-Klamath Falls, OR"
+303,"Memphis, TN"
+304,"Meridian, MS"
+305,"Miami-Ft. Lauderdale, FL"
+306,"Milwaukee, WI"
+307,"Minneapolis-St. Paul, MN"
+308,"Minot-Bismarck-Dickinson(Williston), ND"
+309,"Missoula, MT"
+310,"Mobile, AL-Pensacola (Ft. Walton Beach), FL"
+311,"Monroe, LA-El Dorado, AR"
+312,"Monterey-Salinas, CA"
+313,"Montgomery (Selma), AL"
+314,"Nashville, TN"
+315,"New Orleans, LA"
+316,"New York, NY"
+317,"Norfolk-Portsmouth-Newport News,VA"
+318,"North Platte, NE"
+319,"Odessa-Midland, TX"
+320,"Oklahoma City, OK"
+321,"Omaha, NE"
+322,"Orlando-Daytona Beach-Melbourne, FL"
+323,"Ottumwa, IA-Kirksville, MO"
+324,"Paducah, KY-Cape Girardeau, MO-Harrisburg-Mount Vernon, IL"
+325,"Palm Springs, CA"
+326,"Panama City, FL"
+327,"Parkersburg, WV"
+328,"Peoria-Bloomington, IL"
+329,"Philadelphia, PA"
+330,"Phoenix, AZ"
+331,"Pittsburgh, PA"
+332,"Portland, OR"
+333,"Portland-Auburn, ME"
+334,"Presque Isle, ME"
+335,"Providence, RI-New Bedford, MA"
+336,"Quincy, IL-Hannibal, MO-Keokuk, IA"
+337,"Raleigh-Durham (Fayetteville), NC"
+338,"Rapid City, SD"
+339,"Reno, NV"
+340,"Richmond-Petersburg, VA"
+341,"Roanoke-Lynchburg, VA"
+342,"Rochester, NY"
+343,"Rochester, MN-Mason City, IA-Austin, MN"
+344,"Rockford, IL"
+345,"Sacramento-Stockton-Modesto, CA"
+346,"St. Joseph, MO"
+347,"St. Louis, MO"
+348,"Salisbury, MD"
+349,"Salt Lake City, UT"
+350,"San Angelo, TX"
+351,"San Antonio, TX"
+352,"San Diego, CA"
+353,"San Francisco-Oakland-San Jose, CA"
+354,"Santa Barbara-Santa Maria-San Luis Obispo, CA"
+355,"Savannah, GA"
+356,"Seattle-Tacoma, WA"
+357,"Sherman, TX-Ada, OK"
+358,"Shreveport, LA"
+359,"Sioux City, IA"
+360,"Sioux Falls(Mitchell), SD"
+361,"South Bend-Elkhart, IN"
+362,"Spokane, WA"
+363,"Springfield, MO"
+364,"Springfield-Holyoke, MA"
+365,"Syracuse, NY"
+366,"Tallahassee, FL-Thomasville, GA"
+367,"Tampa-St Petersburg (Sarasota), FL"
+368,"Terre Haute, IN"
+369,"Toledo, OH"
+370,"Topeka, KS"
+371,"Traverse City-Cadillac, MI"
+372,"Tri-Cities, TN-VA"
+373,"Tucson (Sierra Vista), AZ"
+374,"Tulsa, OK"
+375,"Twin Falls, ID"
+376,"Tyler-Longview(Lufkin & Nacogdoches), TX"
+377,"Utica, NY"
+378,"Victoria, TX"
+379,"Waco-Temple-Bryan, TX"
+380,"Washington, DC (Hagerstown, MD)"
+381,"Watertown, NY"
+382,"Wausau-Rhinelander, WI"
+383,"West Palm Beach-Ft. Pierce, FL"
+384,"Wheeling, WV-Steubenville, OH"
+385,"Wichita Falls, TX & Lawton, OK"
+386,"Wichita-Hutchinson, KS"
+387,"Wilkes Barre-Scranton, PA"
+388,"Wilmington, NC"
+389,"Yakima-Pasco-Richland-Kennewick, WA"
+390,"Youngstown, OH"
+391,"Yuma, AZ-El Centro, CA"
+392,"Zanesville, OH"
+393,1
+394,2
+395,3
+396,4
+397,5
+398,1
+399,2
+400,3
+401,4
+402,5
+165,sweets
+170,organic
+407,Mother's/Father's Day
+405,Christmas/Hanukkah
+415,artist
+143,TV & movies
+145,workaholic
+146,writing
+130,dog owner
+102,just graduated
+103,new baby
+104,new home
+106,newly married
+109,retired
+110,upcoming trip
+147,baseball
+148,basketball
+413,bike riding
+414,camping/hiking
+153,football
+154,golf
+156,running
+158,spinning
+159,tennis
+160,water sports
+161,winter sports
+162,yoga
+171,american
+172,asian
+173,french
+174,italian
+175,spanish
+176,vegetarian
+166,exploring new cuisines
+167,going out to eat
+134,fashion
+137,learning new things
+139,partying
+142,shopping
+124,environmentalist
+125,foodie
+126,health conscious
+127,hipster
+128,jetsetter
+129,parent
+131,tech savvy
+132,trendsetter
+403,engineering
+25,interior design
+26,journalism & news
+27,law & legal services
+28,manufacturing
+404,marketing
+29,media & broadcasting
+30,medical devices & supplies
+31,motion pictures & video
+32,music
+57,other
+33,pharmaceutical
+34,photography
+35,public administration
+36,public relations
+37,publishing
+38,real estate
+39,restaurant
+40,retail
+41,retired
+42,sales
+43,science
+44,service
+45,sports
+47,startup
+48,stay at home parent
+46,student
+49,technology
+50,telecommunications
+51,tourism
+52,transportation
+53,travel
+56,unemployed
+54,utilities
+55,web services
+84,anniversary
+85,baby shower
+87,birthday
+86,bridal shower
+89,congratulations
+92,graduation
+416,housewarming
+94,just because
+101,other
+96,promotion
+97,retirement
+98,thank you
+406,wedding/engagement
+122,active
+111,creative
+113,curious
+118,extrovert
+116,idle
+112,introvert
+121,organized
+120,sensitive
+115,spontaneous
+114,tough
+117,traditional
+119,wary
+151,crossfit
+157,soccer
+408,significant other
+412,grandparent
+63,colleague
+69,friend
+83,other
+411,parent / in-law
+410,son / daughter
+409,sibling / in-law
