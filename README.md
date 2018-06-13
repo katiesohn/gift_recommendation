@@ -8,7 +8,7 @@ When trying to find the right gift, it can be difficult to have confidence in wh
 
 Outgift is challenging you to create an algorithm which can recommend products to gifters, taking into account the relationship between gifter and recipient, the recipient's demographics, and their interests.
 
-# Caveat
+### Caveat
 
 The data associating gift searches (surveys) and sales is not great, but we think it can be inferred by matching the Sale datetime and product with a Survey's datetime and product recommendations (the thinking goes if there was only one survey that recommended that product in a reasonable time window before the sale, we can assume the sale and survey match).
 
